@@ -1,0 +1,23 @@
+{
+  "name": "citiesParser",
+  "version": "0.0.0",
+  "description": "World City Parse",
+  "main": "worldCitiesParse.js",
+  "dependencies": {
+    "line-by-line": "~0.1.3",
+    "node-status": "~0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timestep/worldcitiesParser.git"
+  },
+  "author": "Kevin Sivabalan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timestep/worldcitiesParser/issues"
+  }
+}
